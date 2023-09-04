@@ -8,4 +8,15 @@ The aggregate data set is provided in four files:
 - relaysDict.pickle is a dictionary that indicates for each relay which blocks it claims
 - privateNonPBS.pkl is a pandas dataframe with all private transactions in non-PBS blocks
 
-We further provide the scrips used for the data analysis in the following notebook: PBSAnalysis.ipynb.
+We further provide the scripts used for the data analysis in the following notebook: PBSAnalysis.ipynb.
+
+## Attribution
+If using this repository for research, please cite as: 
+``` bibtex
+@misc{heimbach2023ethereum,
+  title = {Ethereum's Proposer-Builder Separation: Promises and Realities},
+  author = {Heimbach, Lioba and Kiffer, Lucianna and Torres, Christof Ferreira and Wattenhofer, Roger},
+  journal = {arXiv preprint arXiv:2305.19037},
+  year = {2023}
+}
+```
