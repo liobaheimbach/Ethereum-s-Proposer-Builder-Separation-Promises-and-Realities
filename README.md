@@ -1,6 +1,6 @@
 # Ethereum's Proposer-Builder Separation: Promises and Realities 
 
-This repository provides the aggregate data set created for the paper 'Ethereum's Proposer-Builder Separation: Promises and Realities'.
+This repository provides the aggregate data set created for the paper [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/abs/2305.19037).
 
 The aggregate data set is provided in four files: 
 - data.pkl is a pandas dataframe with block level PBS data
