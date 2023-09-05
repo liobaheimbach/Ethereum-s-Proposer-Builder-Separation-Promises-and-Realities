@@ -15,7 +15,7 @@ If using this repository for research, please cite as:
 ``` bibtex
 @misc{heimbach2023ethereum,
   title = {Ethereum's Proposer-Builder Separation: Promises and Realities},
-  author = {Heimbach, Lioba and Kiffer, Lucianna and Torres, Christof Ferreira and Wattenhofer, Roger},
+  author = {Heimbach, Lioba and Kiffer, Lucianna and Ferreira Torres, Christof and Wattenhofer, Roger},
   journal = {arXiv preprint arXiv:2305.19037},
   year = {2023}
 }
