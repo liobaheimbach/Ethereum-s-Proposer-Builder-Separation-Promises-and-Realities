@@ -13,10 +13,11 @@ We further provide the scripts used for the data analysis in the following noteb
 ## Attribution
 If using this repository for research, please cite as: 
 ``` bibtex
-@misc{heimbach2023ethereum,
+@inproceedings{heimbach2023ethereum,
   title = {Ethereum's Proposer-Builder Separation: Promises and Realities},
   author = {Heimbach, Lioba and Kiffer, Lucianna and Ferreira Torres, Christof and Wattenhofer, Roger},
-  journal = {arXiv preprint arXiv:2305.19037},
-  year = {2023}
+  booktitle = {2023 ACM Internet Measurement Conference (IMC), Montreal, QC, Canada},
+  month = oct,
+  year = {2023},
 }
 ```
